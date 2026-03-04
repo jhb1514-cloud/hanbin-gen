@@ -1,0 +1,9 @@
+streamlit
+nest_asyncio
+google-genai
+groq
+Pillow
+requests
+numpy
+edge-tts
+moviepy
