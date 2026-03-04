@@ -1,0 +1,26 @@
+# ── API 키 / 환경 변수 (절대 GitHub에 올리면 안 됨) ──
+api.env
+.env
+*.env
+secrets.toml
+
+# ── 출력 파일 ──
+output/
+
+# ── Python 캐시 ──
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ── 가상환경 ──
+.venv*/
+venv/
+env/
+
+# ── OS 파일 ──
+.DS_Store
+Thumbs.db
+
+# ── Streamlit 로컬 설정 ──
+.streamlit/secrets.toml
